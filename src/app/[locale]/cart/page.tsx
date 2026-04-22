@@ -73,7 +73,7 @@ export default function CartPage() {
     setLoading(true);
 
     try {
-      const response = await fetch(`/${locale}/api/checkout`, {
+      const response = await fetch(`/es/api/checkout`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

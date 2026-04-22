@@ -29,7 +29,7 @@ export function useContactForm() {
 
     try {
       // Usamos el locale dinámico para evitar el 404
-      const response = await fetch(`/${locale ?? "es"}/api/cotizacion`, {
+      const response = await fetch(`/es/api/cotizacion`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),
