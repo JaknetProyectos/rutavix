@@ -1,0 +1,394 @@
+{
+  "Header": {
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "experiences": "Experiences",
+      "contact": "Contact",
+      "mobile_exp_title": "Our Experiences"
+    },
+    "experiences": {
+      "marriage_proposal": "Proposal Experience",
+      "photo_travel": "Travel Photography Session in Mexico",
+      "romantic_picnic": "Romantic / Boho Picnic Setup in Mexico",
+      "private_boat": "Private Boat Experiences",
+      "rooftop_dinner": "Hidden Rooftop Dinner",
+      "hotel_decoration": "Hotel / Beach Surprise Setup"
+    }
+  },
+  "Footer": {
+    "contact": {
+      "address": {
+        "street": "23 Rio Guadiana St., Renacimiento,",
+        "city": "Cuauhtemoc, Zip Code 06500, Mexico City."
+      }
+    },
+    "payment": {
+      "secure_title": "100% Protected Payment",
+      "cards_accepted": "All major cards accepted"
+    },
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions",
+      "refunds": "Refunds & Cancellations"
+    },
+    "copyright": {
+      "motto": "Experiences that awaken the soul",
+      "rights": "All rights reserved."
+    }
+  },
+  "CoverageSection": {
+    "badge": "Nationwide Coverage",
+    "title": "Coverage and <span>Terms</span>",
+    "subtitle": "Explore all available destinations",
+    "description": "Our services are offered in major cities across Mexico. Logistics are adapted to each location to ensure a flawless experience.",
+    "list_title": "We operate in:",
+    "locations": "Mexico City • Guadalajara • Monterrey • Cancun • Riviera Maya • Puerto Vallarta • Los Cabos • San Miguel de Allende • Valle de Bravo",
+    "button_text": "View coverage details"
+  },
+  "CTACard": {
+    "top_text": "Moments that last a lifetime",
+    "title": "Travel to your ideal <span>destination</span>",
+    "buttons": {
+      "experiences": "Experiences",
+      "services": "Our Services"
+    }
+  },
+  "HeroCarousel": {
+    "cta_button": "EXPLORE NOW",
+    "slides": {
+      "1": {
+        "title": "Hotel / Beach Surprise Setup",
+        "subtitle": "Design your proposal fully customized to your vision"
+      },
+      "2": {
+        "title": "Proposal Experience",
+        "subtitle": "We create unique and romantic proposals to make that 'yes' unforgettable"
+      },
+      "3": {
+        "title": "Romantic Picnic Experience",
+        "subtitle": "Enjoy an intimate and aesthetic moment crafted in a natural setting"
+      }
+    }
+  },
+  "ExperiencesSection": {
+    "badge": "Premium Catalog",
+    "title": "Unforgettable <span>Experiences</span>",
+    "button_text": "VIEW DETAILS",
+    "items": {
+      "1": {
+        "title": "Travel Photography Experience",
+        "description": "Turn your trips into lasting memories with professional photography."
+      },
+      "2": {
+        "title": "Romantic / Boho Picnic",
+        "description": "Enjoy a private and aesthetic moment designed in a natural environment."
+      },
+      "3": {
+        "title": "Private Boat Ride",
+        "description": "Sail through stunning landscapes with complete privacy."
+      },
+      "4": {
+        "title": "Hidden Rooftop Dinner",
+        "description": "Exclusive rooftop setting with panoramic views for intimate experiences."
+      },
+      "5": {
+        "title": "Marriage Proposal",
+        "description": "Romantic and carefully planned setups to make that 'yes' unforgettable."
+      },
+      "6": {
+        "title": "Surprise Decoration",
+        "description": "We transform rooms or villas into perfect romantic environments."
+      }
+    }
+  },
+  "WhyUsSection": {
+    "badge": "Why choose us?",
+    "title": "We tailor every <span>detail of your journey</span>",
+    "feature": {
+      "title": "Custom-made experiences",
+      "description": "Our services are available in top destinations across Mexico. You can enhance your experience with additional elements through a personalized quote aligned with your vision."
+    },
+    "button_text": "REQUEST INFORMATION"
+  },
+  "AboutPage": {
+    "hero": {
+      "title": "About us"
+    },
+    "coverage": {
+      "title": "Coverage and <span>General Terms</span>",
+      "description": "Our services are offered in multiple cities and destinations throughout Mexico. Availability, logistics, and additional costs may vary depending on the type of experience and the selected plan.",
+      "list_title": "Available Cities",
+      "operating_in": "Operating in",
+      "city_list": [
+        "Mexico City",
+        "Guadalajara",
+        "Monterrey",
+        "Cancun",
+        "Riviera Maya",
+        "Puerto Vallarta",
+        "Los Cabos",
+        "San Miguel de Allende",
+        "Valle de Bravo",
+        "Xochimilco",
+        "Queretaro",
+        "Leon",
+        "Puebla",
+        "Toluca",
+        "Tijuana",
+        "Mazatlan",
+        "Oaxaca",
+        "Merida",
+        "Cozumel",
+        "Villahermosa",
+        "Acapulco",
+        "Chihuahua",
+        "Morelia",
+        "Aguascalientes",
+        "San Luis Potosi",
+        "Culiacan",
+        "Durango",
+        "Zacatecas",
+        "Tepic",
+        "Ensenada"
+      ],
+      "personalize": {
+        "title": "Customize your experience",
+        "description": "If you would like to carry out your experience in a destination not listed here, contact us to receive a personalized quote based on location and logistics requirements.",
+        "button": "CONTACT US"
+      }
+    },
+    "quote": "Each experience can be modified and scaled depending on the production level you are looking for.",
+    "reservations": {
+      "title": "Reservations",
+      "subtitle": "We suggest booking at least one week in advance.",
+      "description": "For premium experiences, exclusive destinations, or peak seasons, booking earlier is recommended to guarantee availability of locations, suppliers, and production."
+    },
+    "extras": {
+      "title": "Optional Extras",
+      "subtitle": "Depending on the selected service and plan, you can include additional elements through a custom quote, such as:",
+      "items": [
+        "Professional video production",
+        "Makeup artists and stylists",
+        "Live musicians",
+        "Drone aerial footage",
+        "Private chef service",
+        "Desserts or extended menu options",
+        "Special themed decoration",
+        "Private transportation",
+        "Extended duration"
+      ]
+    },
+    "logistics": {
+      "title": "Transport & Logistics",
+      "subtitle": "Transportation costs are quoted separately and may vary depending on:",
+      "details": [
+        "Team base location",
+        "Distance to destination",
+        "Type of experience selected",
+        "Required production level"
+      ],
+      "footer": "For experiences outside the base city, additional costs may apply for travel, accommodation, and operational logistics."
+    },
+    "custom_quote": {
+      "title": "Custom Quote",
+      "locations_subtitle": "This experience can be arranged in:",
+      "locations_items": [
+        "Boutique hotels",
+        "Private beach villas",
+        "Romantic cabins",
+        "Executive suites",
+        "Exclusive destinations across Mexico"
+      ],
+      "investment_subtitle": "The final investment will depend on:",
+      "investment_items": [
+        "City or destination",
+        "Production level",
+        "Hotel policies",
+        "Audiovisual coverage",
+        "Transport logistics"
+      ]
+    }
+  },
+  "PaymentPage": {
+    "title": "Pay for your <span>Adventure</span>",
+    "subtitle": "Provide the quote information shared by your advisor.",
+    "fields": {
+      "name": {
+        "label": "Cardholder name",
+        "placeholder": "e.g., John Doe"
+      },
+      "email": {
+        "label": "Email address",
+        "placeholder": "your@email.com"
+      },
+      "folio": {
+        "label": "Quote Reference"
+      },
+      "amount": {
+        "label": "Total Amount Agreed (Tax Included)",
+        "disclaimer": "* This will be the final charge applied to your card."
+      }
+    },
+    "buttons": {
+      "submit": "Add to cart",
+      "success": "Added to your cart!"
+    },
+    "secure_payment": "100% Secure Payment",
+    "cart_info": {
+      "experience_name": "Personalized Experience",
+      "folio_label": "Quote Reference",
+      "duration": "Custom logistics"
+    }
+  },
+  "QuoteCTA": {
+    "title": "Already received a quote?",
+    "button": "Proceed to payment"
+  },
+  "ContactPage": {
+    "hero_title": "How can we assist you?",
+    "intro_text": "Each experience can be tailored and scaled depending on the level of production you require.",
+    "form": {
+      "success_title": "Message Sent Successfully!",
+      "success_message": "Our team will contact you shortly.",
+      "error_api": "Connection error. Please try again later.",
+      "button": "SEND MESSAGE",
+      "placeholders": {
+        "name": "Full name",
+        "email": "Email address",
+        "phone": "Phone number",
+        "message": "Tell us about your event or any questions you have..."
+      }
+    },
+    "reservations": {
+      "title": "Reservations",
+      "content": "We recommend booking your experience at least one week in advance. For premium services, exclusive locations, or high-demand seasons, booking earlier is advised to ensure availability."
+    },
+    "extras": {
+      "title": "Optional Extras",
+      "subtitle": "Based on the selected service and plan, you can include additional elements through a personalized quote, such as:",
+      "items": [
+        "Professional video production",
+        "Makeup artists and stylists",
+        "Live musicians",
+        "Drone aerial footage",
+        "Private chef service",
+        "Desserts or extended menu options",
+        "Special themed decoration",
+        "Private transportation",
+        "Extended duration"
+      ]
+    }
+  },
+  "CartPage": {
+    "title": "Your Selection",
+    "empty": {
+      "title": "Your cart is currently empty",
+      "button": "EXPLORE EXPERIENCES"
+    },
+    "items": {
+      "tag_custom": "Custom",
+      "tag_plan": "Plan",
+      "pax": "PAX",
+      "iva_included": "Tax Included"
+    },
+    "summary": {
+      "total_label": "Total amount"
+    },
+    "form": {
+      "contact_title": "Contact Information",
+      "payment_title": "Payment Details",
+      "placeholders": {
+        "first_name": "First name",
+        "last_name": "Last name",
+        "email": "Email",
+        "phone": "Phone",
+        "address": "Address",
+        "city": "City",
+        "zip": "Zip code",
+        "card_number": "Card number",
+        "card_holder": "Name on card"
+      },
+      "submit_button": "COMPLETE PAYMENT",
+      "encryption_note": "Secure transaction powered by Keycop SSL"
+    },
+    "modal": {
+      "success_title": "Payment Successful!",
+      "error_title": "Payment Failed",
+      "success_message": "Your payment has been successfully processed. The details of your experience have been sent to your email.",
+      "default_error": "An error occurred during the transaction.",
+      "reference": "Reference",
+      "ticket_sent": "Digital ticket delivered",
+      "insurance_active": "Travel insurance active",
+      "button_success": "CLOSE AND RETURN HOME",
+      "button_error": "TRY AGAIN",
+      "thanks": "Thank you for choosing Rutavix"
+    }
+  },
+  "CustomQuote": {
+    "tag": "Custom Experience",
+    "default_data": {
+      "title": "Custom Quote",
+      "description": "We can design this experience specifically for you."
+    },
+    "form_header": {
+      "title": "Start your request",
+      "subtitle": "Share your idea and we will bring it to life."
+    },
+    "placeholders": {
+      "name": "Full name",
+      "email": "Email address",
+      "location": "City or destination",
+      "message": "Tell us more about what you have in mind..."
+    },
+    "options": {
+      "group_type": {
+        "label": "How are you traveling? (Group type)",
+        "individual": "Individual",
+        "couple": "Couple",
+        "group": "Group (+4 people)"
+      }
+    },
+    "submit_button": "SEND REQUEST",
+    "status": {
+      "success_title": "Request Submitted",
+      "success_message": "A concierge will reach out to finalize the details of your custom experience.",
+      "retry_button": "Submit another request",
+      "error_message": "Something went wrong. Please try again."
+    }
+  },
+  "PlanDetailModal": {
+    "tax_included": "Tax Included",
+    "estimated_duration": "ESTIMATED TIME",
+    "defaults": {
+      "to_be_consulted": "TO BE CONFIRMED"
+    },
+    "alerts": {
+      "select_date": "Please choose a date for your experience."
+    },
+    "sections": {
+      "description": "Plan Overview",
+      "includes": "Included",
+      "not_includes": "Not Included",
+      "config": "Customize your experience"
+    },
+    "form": {
+      "date_label": "Preferred date",
+      "pax_label": "Number of guests (PAX)",
+      "button_reserve": "BOOK NOW",
+      "button_added": "ADDED"
+    },
+    "sidebar": {
+      "title": "Visionary",
+      "description": "Looking for a destination beyond the list? We create your experience from scratch with fully customized logistics.",
+      "button": "LET'S TALK"
+    }
+  },
+  "ExperiencePage": {
+    "ideal_tag": "Profiles",
+    "ideal_title": "Perfect for",
+    "plans_title": "Available Plans",
+    "price_suffix": "MXN • TAX INCLUDED",
+    "details_button": "VIEW DETAILS"
+  }
+}
